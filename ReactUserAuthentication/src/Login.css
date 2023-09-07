@@ -1,0 +1,12 @@
+ /*adding margin to inputs fills*/
+ input {
+     margin-top: 10px;
+ }
+
+ /*adding style col-md-4 bootstrap <div> fills*/
+ .col-md-4 {
+     margin-top: 150px;
+     background-color: antiquewhite;
+     padding: 30px;
+     border-radius: 10px;
+ }

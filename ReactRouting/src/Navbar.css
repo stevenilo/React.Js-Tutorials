@@ -1,0 +1,10 @@
+ul {
+    background-color: cornflowerblue;
+    padding: 5px;
+}
+
+li {
+    display: inline;
+    margin: 20px;
+    color: aliceblue;
+}
